@@ -6,7 +6,12 @@
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
     "preview": "vite preview --host 0.0.0.0",
-    "test": "node --test tests/*.test.js"
+    "test": "node --test tests/*.test.js",
+    "test:e2e": "playwright test",
+    "dev:https": "vite --host 0.0.0.0 --mode https"
   },
-  "devDependencies": { "vite": "^7.0.0" }
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "vite": "^7.0.0"
+  }
 }

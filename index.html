@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ja">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="theme-color" content="#102b2a"><meta name="description" content="FITBOXのケイデンスと運動時間を記録するシンプルなモニタ"><title>FITBOX Monitor</title></head>
+<body>
+<div class="app">
+<header><div><span class="eyebrow">YOUR DAILY RIDE</span><h1>FITBOX <span>Monitor</span></h1></div><span id="connection" class="badge">未接続</span></header>
+<section class="connection panel"><div><strong id="deviceName">センサーを接続して始めましょう</strong><p id="support"></p></div><div class="actions"><label class="check"><input id="allDevices" type="checkbox">すべてのBLE機器から選ぶ</label><button id="connect">センサーを接続</button><button id="disconnect" class="secondary" hidden>切断</button></div></section>
+<p id="message" role="status" aria-live="polite">準備ができたらセッションを開始してください。</p>
+<main>
+<section class="monitor panel">
+<div class="monitor-top"><span id="sessionStatus" class="badge">準備完了</span><span id="sourceLabel">実機モード</span></div>
+<div class="ride"><div class="cadence"><span class="eyebrow">CADENCE</span><div><strong id="rpm">0</strong><span class="unit">rpm</span></div><p id="activity">データ待ち</p></div>
+<div class="pedal-wrap"><svg viewBox="0 0 240 240" aria-label="推定ペダル回転" role="img"><circle class="guide" cx="120" cy="120" r="86"/><path class="marker" d="M120 22v14"/><g id="crank"><path class="arm" d="M120 42v156"/><rect class="pedal colored" x="94" y="32" width="52" height="20" rx="6"/><rect class="pedal" x="94" y="188" width="52" height="20" rx="6"/></g><circle class="hub" cx="120" cy="120" r="16"/></svg><p>色付きペダルの一周 ＝ 1回転</p></div></div>
+<div class="metrics"><div><span>運動時間</span><strong id="elapsed">00:00</strong></div><div><span>総ペダル回転数</span><strong id="total">0.0</strong><small>回</small></div><div><span>平均ケイデンス</span><strong id="average">0.0</strong><small>rpm</small></div></div>
+<div class="session-controls"><button id="start">開始</button><button id="pause" class="secondary" disabled>一時停止</button><button id="finish" class="secondary" disabled>終了して保存</button><button id="new" class="quiet" disabled>新しい計測</button></div>
+<p class="note">止まってもタイマーは進みます。休憩には「一時停止」を使ってください。</p>
+</section>
+<section class="panel calibration"><div class="section-heading"><div><span class="eyebrow">CALIBRATION</span><h2>回転の補正</h2></div><button id="calibrate" class="secondary">補正を開く</button></div><p>現在の倍率 <strong id="savedFactor">0.50</strong> · 保存後、次の計測から適用</p>
+<div id="calibrationBody" hidden><p>実物と上のペダルの速さを比べてください。角度や回転方向はセンサーの実測値ではありません。</p><label class="factor-label" for="factor">生Crank増分に掛ける倍率（20 × 0.5 ＝ 10回転）</label><div class="factor-controls"><button id="slower" class="secondary">遅くする</button><input id="factor" type="number" min="0.1" max="2" step="0.01" value="0.5" aria-label="補正倍率"><button id="faster" class="secondary">速くする</button></div><input id="factorRange" type="range" min="0.1" max="2" step="0.01" value="0.5" aria-label="補正倍率スライダー"><p>補正プレビュー合計 <strong id="previewTotal">0.0</strong> 回 · rpmは上の表示で確認</p><div class="actions"><button id="saveFactor">この補正を使う</button><button id="cancelFactor" class="secondary">キャンセル</button><button id="resetFactor" class="quiet">0.5に戻す</button></div></div></section>
+<section class="panel"><div class="section-heading"><div><span class="eyebrow">HISTORY</span><h2>運動の記録</h2></div><button id="export" class="secondary">JSON出力</button></div><p id="storageNotice" class="note">記録はこのブラウザに保存されます。</p><div id="history"></div></section>
+<details class="panel"><summary>デバッグ・記録の再生</summary><p>実測ログを受信時刻どおりに再生します。実機の計測とは混ぜません。</p><div class="actions"><select id="replayChoice" aria-label="再生するログ"><option value="forward">forward（102回）</option><option value="reverse">reverse（101回）</option></select><button id="replay" class="secondary">記録を再生</button><button id="stopReplay" class="quiet" disabled>再生を停止</button></div><p id="replayStatus"></p><pre id="diagnostics">受信データなし</pre></details>
+</main><footer>FITBOX Monitor · 速度と距離は推定しません</footer>
+</div><script type="module" src="/src/app.js"></script>
+</body></html>

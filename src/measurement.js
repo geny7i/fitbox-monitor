@@ -39,7 +39,7 @@ export class Measurement {
 export class Session {
   constructor({ factor = 0.5, device = null, source = 'ble' } = {}) {
     this.measurement = new Measurement(factor); this.status = 'ready'; this.elapsed = 0; this.runningSince = null;
-    this.result = { schemaVersion: 1, calculationVersion: VERSION, id: globalThis.crypto.randomUUID(), factor, device, source, startedAt: null, endedAt: null, pauses: [] };
+    this.result = { schemaVersion: 1, calculationVersion: VERSION, id: globalThis.crypto.randomUUID?.() ?? Array.from(globalThis.crypto.getRandomValues(new Uint8Array(16)), b => b.toString(16).padStart(2, '0')).join(''), factor, device, source, startedAt: null, endedAt: null, pauses: [] };
   }
   start(now, date = new Date().toISOString()) {
     if (!['ready', 'paused'].includes(this.status)) return;
