@@ -1,0 +1,5888 @@
+{
+  "deviceName": "FITBOX-03807",
+  "sessionStarted": "2026-10-22T15:48:40.205Z",
+  "exportedAt": "2026-10-22T15:50:25.436Z",
+  "notificationCount": 203,
+  "retainedCount": 203,
+  "records": [
+    {
+      "timestamp": "2026-10-22T15:48:40.702Z",
+      "hex": "03 e3 05 00 00 d0 43 e0 01 d0 43",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1507,
+        "time": 17360,
+        "delta": null,
+        "total": 0,
+        "rpm": null,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 480,
+        "time": 17360,
+        "delta": null,
+        "total": 0,
+        "rpm": null,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:41.692Z",
+      "hex": "03 e3 05 00 00 d0 43 e0 01 d0 43",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1507,
+        "time": 17360,
+        "delta": {
+          "revolutions": 0,
+          "seconds": 0,
+          "rpm": null
+        },
+        "total": 0,
+        "rpm": null,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 480,
+        "time": 17360,
+        "delta": {
+          "revolutions": 0,
+          "seconds": 0,
+          "rpm": null
+        },
+        "total": 0,
+        "rpm": null,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:42.711Z",
+      "hex": "03 e3 05 00 00 d0 43 e0 01 d0 43",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1507,
+        "time": 17360,
+        "delta": {
+          "revolutions": 0,
+          "seconds": 0,
+          "rpm": null
+        },
+        "total": 0,
+        "rpm": null,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 480,
+        "time": 17360,
+        "delta": {
+          "revolutions": 0,
+          "seconds": 0,
+          "rpm": null
+        },
+        "total": 0,
+        "rpm": null,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:43.701Z",
+      "hex": "03 e6 05 00 00 8c 64 e1 01 8c 64",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1510,
+        "time": 25740,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 8.18359375,
+          "rpm": 21.99522673031026
+        },
+        "total": 3,
+        "rpm": 21.99522673031026,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 481,
+        "time": 25740,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 8.18359375,
+          "rpm": 7.3317422434367545
+        },
+        "total": 1,
+        "rpm": 7.3317422434367545,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:43.702Z",
+      "hex": "03 e9 05 00 00 48 85 e2 01 48 85",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1513,
+        "time": 34120,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 8.18359375,
+          "rpm": 21.99522673031026
+        },
+        "total": 6,
+        "rpm": 21.99522673031026,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 482,
+        "time": 34120,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 8.18359375,
+          "rpm": 7.3317422434367545
+        },
+        "total": 2,
+        "rpm": 7.3317422434367545,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:44.691Z",
+      "hex": "03 ed 05 00 00 d0 89 e3 01 d0 89",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1517,
+        "time": 35280,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 1.1328125,
+          "rpm": 211.86206896551724
+        },
+        "total": 10,
+        "rpm": 211.86206896551724,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 483,
+        "time": 35280,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 1.1328125,
+          "rpm": 52.96551724137931
+        },
+        "total": 3,
+        "rpm": 52.96551724137931,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:44.751Z",
+      "hex": "03 f0 05 00 00 58 8e e4 01 58 8e",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1520,
+        "time": 36440,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 1.1328125,
+          "rpm": 158.89655172413794
+        },
+        "total": 13,
+        "rpm": 158.89655172413794,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 484,
+        "time": 36440,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 1.1328125,
+          "rpm": 52.96551724137931
+        },
+        "total": 4,
+        "rpm": 52.96551724137931,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:45.712Z",
+      "hex": "03 f3 05 00 00 f0 91 e5 01 f0 91",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1523,
+        "time": 37360,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 16,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 485,
+        "time": 37360,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 5,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:45.712Z",
+      "hex": "03 f6 05 00 00 88 95 e6 01 88 95",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1526,
+        "time": 38280,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 19,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 486,
+        "time": 38280,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 6,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:46.701Z",
+      "hex": "03 f9 05 00 00 34 99 e7 01 34 99",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1529,
+        "time": 39220,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 22,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 487,
+        "time": 39220,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 7,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:46.731Z",
+      "hex": "03 fc 05 00 00 e0 9c e8 01 e0 9c",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1532,
+        "time": 40160,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 25,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 488,
+        "time": 40160,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 8,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:48.112Z",
+      "hex": "03 03 06 00 00 4c a4 ea 01 4c a4",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1539,
+        "time": 42060,
+        "delta": {
+          "revolutions": 7,
+          "seconds": 1.85546875,
+          "rpm": 226.3578947368421
+        },
+        "total": 32,
+        "rpm": 226.3578947368421,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 490,
+        "time": 42060,
+        "delta": {
+          "revolutions": 2,
+          "seconds": 1.85546875,
+          "rpm": 64.67368421052632
+        },
+        "total": 10,
+        "rpm": 64.67368421052632,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:48.112Z",
+      "hex": "03 09 06 00 00 b8 ab ec 01 b8 ab",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1545,
+        "time": 43960,
+        "delta": {
+          "revolutions": 6,
+          "seconds": 1.85546875,
+          "rpm": 194.02105263157895
+        },
+        "total": 38,
+        "rpm": 194.02105263157895,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 492,
+        "time": 43960,
+        "delta": {
+          "revolutions": 2,
+          "seconds": 1.85546875,
+          "rpm": 64.67368421052632
+        },
+        "total": 12,
+        "rpm": 64.67368421052632,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:48.711Z",
+      "hex": "03 0c 06 00 00 a0 af ed 01 a0 af",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1548,
+        "time": 44960,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 41,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 493,
+        "time": 44960,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 13,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:48.771Z",
+      "hex": "03 0f 06 00 00 88 b3 ee 01 88 b3",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1551,
+        "time": 45960,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 44,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 494,
+        "time": 45960,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 14,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:49.701Z",
+      "hex": "03 12 06 00 00 70 b7 ef 01 70 b7",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1554,
+        "time": 46960,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 47,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 495,
+        "time": 46960,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 15,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:49.731Z",
+      "hex": "03 15 06 00 00 58 bb f0 01 58 bb",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1557,
+        "time": 47960,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 50,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 496,
+        "time": 47960,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 16,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:50.721Z",
+      "hex": "03 19 06 00 00 40 bf f1 01 40 bf",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1561,
+        "time": 48960,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.9765625,
+          "rpm": 245.76
+        },
+        "total": 54,
+        "rpm": 245.76,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 497,
+        "time": 48960,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 17,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:50.721Z",
+      "hex": "03 1c 06 00 00 28 c3 f2 01 28 c3",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1564,
+        "time": 49960,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 57,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 498,
+        "time": 49960,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 18,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:51.741Z",
+      "hex": "03 1f 06 00 00 fc c6 f3 01 fc c6",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1567,
+        "time": 50940,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 60,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 499,
+        "time": 50940,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 19,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:51.742Z",
+      "hex": "03 22 06 00 00 d0 ca f4 01 d0 ca",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1570,
+        "time": 51920,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 63,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 500,
+        "time": 51920,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 20,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:52.701Z",
+      "hex": "03 25 06 00 00 90 ce f5 01 90 ce",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1573,
+        "time": 52880,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 66,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 501,
+        "time": 52880,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 21,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:52.702Z",
+      "hex": "03 28 06 00 00 50 d2 f6 01 50 d2",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1576,
+        "time": 53840,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 69,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 502,
+        "time": 53840,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 22,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:53.692Z",
+      "hex": "03 2b 06 00 00 e8 d5 f7 01 e8 d5",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1579,
+        "time": 54760,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 72,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 503,
+        "time": 54760,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 23,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:53.721Z",
+      "hex": "03 2f 06 00 00 80 d9 f8 01 80 d9",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1583,
+        "time": 55680,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.8984375,
+          "rpm": 267.1304347826087
+        },
+        "total": 76,
+        "rpm": 267.1304347826087,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 504,
+        "time": 55680,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 24,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:54.711Z",
+      "hex": "03 32 06 00 00 7c dd f9 01 7c dd",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1586,
+        "time": 56700,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.99609375,
+          "rpm": 180.7058823529412
+        },
+        "total": 79,
+        "rpm": 180.7058823529412,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 505,
+        "time": 56700,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.99609375,
+          "rpm": 60.23529411764706
+        },
+        "total": 25,
+        "rpm": 60.23529411764706,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:54.771Z",
+      "hex": "03 35 06 00 00 78 e1 fa 01 78 e1",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1589,
+        "time": 57720,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.99609375,
+          "rpm": 180.7058823529412
+        },
+        "total": 82,
+        "rpm": 180.7058823529412,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 506,
+        "time": 57720,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.99609375,
+          "rpm": 60.23529411764706
+        },
+        "total": 26,
+        "rpm": 60.23529411764706,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:55.701Z",
+      "hex": "03 38 06 00 00 60 e5 fb 01 60 e5",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1592,
+        "time": 58720,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 85,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 507,
+        "time": 58720,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 27,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:55.702Z",
+      "hex": "03 3b 06 00 00 48 e9 fc 01 48 e9",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1595,
+        "time": 59720,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 88,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 508,
+        "time": 59720,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 28,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:56.722Z",
+      "hex": "03 3e 06 00 00 58 ed fd 01 58 ed",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1598,
+        "time": 60760,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 1.015625,
+          "rpm": 177.23076923076923
+        },
+        "total": 91,
+        "rpm": 177.23076923076923,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 509,
+        "time": 60760,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 1.015625,
+          "rpm": 59.07692307692308
+        },
+        "total": 29,
+        "rpm": 59.07692307692308,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:56.722Z",
+      "hex": "03 41 06 00 00 68 f1 fe 01 68 f1",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1601,
+        "time": 61800,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 1.015625,
+          "rpm": 177.23076923076923
+        },
+        "total": 94,
+        "rpm": 177.23076923076923,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 510,
+        "time": 61800,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 1.015625,
+          "rpm": 59.07692307692308
+        },
+        "total": 30,
+        "rpm": 59.07692307692308,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:57.711Z",
+      "hex": "03 45 06 00 00 64 f5 ff 01 64 f5",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1605,
+        "time": 62820,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.99609375,
+          "rpm": 240.94117647058823
+        },
+        "total": 98,
+        "rpm": 240.94117647058823,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 511,
+        "time": 62820,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.99609375,
+          "rpm": 60.23529411764706
+        },
+        "total": 31,
+        "rpm": 60.23529411764706,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:57.713Z",
+      "hex": "03 48 06 00 00 60 f9 00 02 60 f9",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1608,
+        "time": 63840,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.99609375,
+          "rpm": 180.7058823529412
+        },
+        "total": 101,
+        "rpm": 180.7058823529412,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 512,
+        "time": 63840,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.99609375,
+          "rpm": 60.23529411764706
+        },
+        "total": 32,
+        "rpm": 60.23529411764706,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:58.702Z",
+      "hex": "03 4b 06 00 00 48 fd 01 02 48 fd",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1611,
+        "time": 64840,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 104,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 513,
+        "time": 64840,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 33,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:58.702Z",
+      "hex": "03 4e 06 00 00 30 01 02 02 30 01",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1614,
+        "time": 304,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 107,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 514,
+        "time": 304,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 34,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:59.691Z",
+      "hex": "03 51 06 00 00 04 05 03 02 04 05",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1617,
+        "time": 1284,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 110,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 515,
+        "time": 1284,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 35,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:48:59.721Z",
+      "hex": "03 54 06 00 00 d8 08 04 02 d8 08",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1620,
+        "time": 2264,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 113,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 516,
+        "time": 2264,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 36,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:00.711Z",
+      "hex": "03 57 06 00 00 84 0c 05 02 84 0c",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1623,
+        "time": 3204,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 116,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 517,
+        "time": 3204,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 37,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:00.712Z",
+      "hex": "03 5b 06 00 00 30 10 06 02 30 10",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1627,
+        "time": 4144,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.91796875,
+          "rpm": 261.4468085106383
+        },
+        "total": 120,
+        "rpm": 261.4468085106383,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 518,
+        "time": 4144,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 38,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:01.703Z",
+      "hex": "03 5e 06 00 00 c8 13 07 02 c8 13",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1630,
+        "time": 5064,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 123,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 519,
+        "time": 5064,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 39,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:01.703Z",
+      "hex": "03 61 06 00 00 60 17 08 02 60 17",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1633,
+        "time": 5984,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 126,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 520,
+        "time": 5984,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 40,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:02.691Z",
+      "hex": "03 64 06 00 00 0c 1b 09 02 0c 1b",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1636,
+        "time": 6924,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 129,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 521,
+        "time": 6924,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 41,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:02.721Z",
+      "hex": "03 67 06 00 00 b8 1e 0a 02 b8 1e",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1639,
+        "time": 7864,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 132,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 522,
+        "time": 7864,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 42,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:03.712Z",
+      "hex": "03 6a 06 00 00 28 22 0b 02 28 22",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1642,
+        "time": 8744,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.859375,
+          "rpm": 209.45454545454547
+        },
+        "total": 135,
+        "rpm": 209.45454545454547,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 523,
+        "time": 8744,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.859375,
+          "rpm": 69.81818181818181
+        },
+        "total": 43,
+        "rpm": 69.81818181818181,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:03.712Z",
+      "hex": "03 6d 06 00 00 98 25 0c 02 98 25",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1645,
+        "time": 9624,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.859375,
+          "rpm": 209.45454545454547
+        },
+        "total": 138,
+        "rpm": 209.45454545454547,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 524,
+        "time": 9624,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.859375,
+          "rpm": 69.81818181818181
+        },
+        "total": 44,
+        "rpm": 69.81818181818181,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:04.702Z",
+      "hex": "03 71 06 00 00 80 29 0d 02 80 29",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1649,
+        "time": 10624,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.9765625,
+          "rpm": 245.76
+        },
+        "total": 142,
+        "rpm": 245.76,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 525,
+        "time": 10624,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 45,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:04.702Z",
+      "hex": "03 74 06 00 00 68 2d 0e 02 68 2d",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1652,
+        "time": 11624,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 145,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 526,
+        "time": 11624,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 46,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:05.721Z",
+      "hex": "03 77 06 00 00 14 31 0f 02 14 31",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1655,
+        "time": 12564,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 148,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 527,
+        "time": 12564,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 47,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:05.721Z",
+      "hex": "03 7a 06 00 00 c0 34 10 02 c0 34",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1658,
+        "time": 13504,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 151,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 528,
+        "time": 13504,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 48,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:06.770Z",
+      "hex": "03 7d 06 00 00 6c 38 11 02 6c 38",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1661,
+        "time": 14444,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 154,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 529,
+        "time": 14444,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 49,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:06.772Z",
+      "hex": "03 80 06 00 00 18 3c 12 02 18 3c",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1664,
+        "time": 15384,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 157,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 530,
+        "time": 15384,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 50,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:10.558Z",
+      "hex": "03 83 06 00 00 d8 3f 13 02 d8 3f",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1667,
+        "time": 16344,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 160,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 531,
+        "time": 16344,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 51,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:10.558Z",
+      "hex": "03 86 06 00 00 98 43 14 02 98 43",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1670,
+        "time": 17304,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 163,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 532,
+        "time": 17304,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 52,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:10.558Z",
+      "hex": "03 8a 06 00 00 58 47 15 02 58 47",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1674,
+        "time": 18264,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.9375,
+          "rpm": 256
+        },
+        "total": 167,
+        "rpm": 256,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 533,
+        "time": 18264,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 53,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:10.558Z",
+      "hex": "03 8d 06 00 00 18 4b 16 02 18 4b",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1677,
+        "time": 19224,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 170,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 534,
+        "time": 19224,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 54,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:10.558Z",
+      "hex": "03 90 06 00 00 d8 4e 17 02 d8 4e",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1680,
+        "time": 20184,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 173,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 535,
+        "time": 20184,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 55,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:10.559Z",
+      "hex": "03 93 06 00 00 98 52 18 02 98 52",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1683,
+        "time": 21144,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 176,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 536,
+        "time": 21144,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 56,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:10.701Z",
+      "hex": "03 96 06 00 00 58 56 19 02 58 56",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1686,
+        "time": 22104,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 179,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 537,
+        "time": 22104,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 57,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:10.701Z",
+      "hex": "03 99 06 00 00 18 5a 1a 02 18 5a",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1689,
+        "time": 23064,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 182,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 538,
+        "time": 23064,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 58,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:11.724Z",
+      "hex": "03 9c 06 00 00 ec 5d 1b 02 ec 5d",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1692,
+        "time": 24044,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 185,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 539,
+        "time": 24044,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 59,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:11.724Z",
+      "hex": "03 a0 06 00 00 c0 61 1c 02 c0 61",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1696,
+        "time": 25024,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.95703125,
+          "rpm": 250.77551020408163
+        },
+        "total": 189,
+        "rpm": 250.77551020408163,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 540,
+        "time": 25024,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 60,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:12.711Z",
+      "hex": "03 a3 06 00 00 80 65 1d 02 80 65",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1699,
+        "time": 25984,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 192,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 541,
+        "time": 25984,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 61,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:12.711Z",
+      "hex": "03 a6 06 00 00 40 69 1e 02 40 69",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1702,
+        "time": 26944,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 195,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 542,
+        "time": 26944,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 62,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:13.700Z",
+      "hex": "03 a9 06 00 00 00 6d 1f 02 00 6d",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1705,
+        "time": 27904,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 198,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 543,
+        "time": 27904,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 63,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:13.730Z",
+      "hex": "03 ac 06 00 00 c0 70 20 02 c0 70",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1708,
+        "time": 28864,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 201,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 544,
+        "time": 28864,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 64,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:14.690Z",
+      "hex": "03 af 06 00 00 94 74 21 02 94 74",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1711,
+        "time": 29844,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 204,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 545,
+        "time": 29844,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 65,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:14.721Z",
+      "hex": "03 b2 06 00 00 68 78 22 02 68 78",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1714,
+        "time": 30824,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 207,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 546,
+        "time": 30824,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 66,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:15.741Z",
+      "hex": "03 b6 06 00 00 00 7c 23 02 00 7c",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1718,
+        "time": 31744,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.8984375,
+          "rpm": 267.1304347826087
+        },
+        "total": 211,
+        "rpm": 267.1304347826087,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 547,
+        "time": 31744,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 67,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:15.741Z",
+      "hex": "03 b9 06 00 00 98 7f 24 02 98 7f",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1721,
+        "time": 32664,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 214,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 548,
+        "time": 32664,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 68,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:16.731Z",
+      "hex": "03 bf 06 00 00 c8 86 26 02 c8 86",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1727,
+        "time": 34504,
+        "delta": {
+          "revolutions": 6,
+          "seconds": 1.796875,
+          "rpm": 200.34782608695653
+        },
+        "total": 220,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 550,
+        "time": 34504,
+        "delta": {
+          "revolutions": 2,
+          "seconds": 1.796875,
+          "rpm": 66.78260869565217
+        },
+        "total": 70,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:16.731Z",
+      "hex": "03 c5 06 00 00 f8 8d 28 02 f8 8d",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1733,
+        "time": 36344,
+        "delta": {
+          "revolutions": 6,
+          "seconds": 1.796875,
+          "rpm": 200.34782608695653
+        },
+        "total": 226,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 552,
+        "time": 36344,
+        "delta": {
+          "revolutions": 2,
+          "seconds": 1.796875,
+          "rpm": 66.78260869565217
+        },
+        "total": 72,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:17.721Z",
+      "hex": "03 c8 06 00 00 7c 91 29 02 7c 91",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1736,
+        "time": 37244,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.87890625,
+          "rpm": 204.8
+        },
+        "total": 229,
+        "rpm": 204.8,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 553,
+        "time": 37244,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.87890625,
+          "rpm": 68.26666666666667
+        },
+        "total": 73,
+        "rpm": 68.26666666666667,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:17.721Z",
+      "hex": "03 cc 06 00 00 00 95 2a 02 00 95",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1740,
+        "time": 38144,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.87890625,
+          "rpm": 273.06666666666666
+        },
+        "total": 233,
+        "rpm": 273.06666666666666,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 554,
+        "time": 38144,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.87890625,
+          "rpm": 68.26666666666667
+        },
+        "total": 74,
+        "rpm": 68.26666666666667,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:18.711Z",
+      "hex": "03 cf 06 00 00 98 98 2b 02 98 98",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1743,
+        "time": 39064,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 236,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 555,
+        "time": 39064,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 75,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:18.711Z",
+      "hex": "03 d2 06 00 00 30 9c 2c 02 30 9c",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1746,
+        "time": 39984,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 239,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 556,
+        "time": 39984,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 76,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:19.730Z",
+      "hex": "03 d5 06 00 00 dc 9f 2d 02 dc 9f",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1749,
+        "time": 40924,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 242,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 557,
+        "time": 40924,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 77,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:19.732Z",
+      "hex": "03 d8 06 00 00 88 a3 2e 02 88 a3",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1752,
+        "time": 41864,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 245,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 558,
+        "time": 41864,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 78,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:20.690Z",
+      "hex": "03 db 06 00 00 34 a7 2f 02 34 a7",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1755,
+        "time": 42804,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 248,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 559,
+        "time": 42804,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 79,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:20.721Z",
+      "hex": "03 de 06 00 00 e0 aa 30 02 e0 aa",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1758,
+        "time": 43744,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 251,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 560,
+        "time": 43744,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 80,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:21.711Z",
+      "hex": "03 e2 06 00 00 c8 ae 31 02 c8 ae",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1762,
+        "time": 44744,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.9765625,
+          "rpm": 245.76
+        },
+        "total": 255,
+        "rpm": 245.76,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 561,
+        "time": 44744,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 81,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:21.711Z",
+      "hex": "03 e5 06 00 00 b0 b2 32 02 b0 b2",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1765,
+        "time": 45744,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 258,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 562,
+        "time": 45744,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 82,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:22.731Z",
+      "hex": "03 e8 06 00 00 98 b6 33 02 98 b6",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1768,
+        "time": 46744,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 261,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 563,
+        "time": 46744,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 83,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:22.731Z",
+      "hex": "03 eb 06 00 00 80 ba 34 02 80 ba",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1771,
+        "time": 47744,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 264,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 564,
+        "time": 47744,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 84,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:23.690Z",
+      "hex": "03 ee 06 00 00 2c be 35 02 2c be",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1774,
+        "time": 48684,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 267,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 565,
+        "time": 48684,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 85,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:23.720Z",
+      "hex": "03 f1 06 00 00 d8 c1 36 02 d8 c1",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1777,
+        "time": 49624,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 270,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 566,
+        "time": 49624,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 86,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:24.711Z",
+      "hex": "03 f4 06 00 00 84 c5 37 02 84 c5",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1780,
+        "time": 50564,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 273,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 567,
+        "time": 50564,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 87,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:24.711Z",
+      "hex": "03 f8 06 00 00 30 c9 38 02 30 c9",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1784,
+        "time": 51504,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.91796875,
+          "rpm": 261.4468085106383
+        },
+        "total": 277,
+        "rpm": 261.4468085106383,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 568,
+        "time": 51504,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 88,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:25.731Z",
+      "hex": "03 fb 06 00 00 dc cc 39 02 dc cc",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1787,
+        "time": 52444,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 280,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 569,
+        "time": 52444,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 89,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:25.731Z",
+      "hex": "03 fe 06 00 00 88 d0 3a 02 88 d0",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1790,
+        "time": 53384,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 283,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 570,
+        "time": 53384,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 90,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:26.690Z",
+      "hex": "03 01 07 00 00 20 d4 3b 02 20 d4",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1793,
+        "time": 54304,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 286,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 571,
+        "time": 54304,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 91,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:26.750Z",
+      "hex": "03 04 07 00 00 b8 d7 3c 02 b8 d7",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1796,
+        "time": 55224,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 289,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 572,
+        "time": 55224,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 92,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:27.741Z",
+      "hex": "03 07 07 00 00 78 db 3d 02 78 db",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1799,
+        "time": 56184,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 292,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 573,
+        "time": 56184,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 93,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:27.741Z",
+      "hex": "03 0a 07 00 00 38 df 3e 02 38 df",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1802,
+        "time": 57144,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 295,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 574,
+        "time": 57144,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 94,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:28.701Z",
+      "hex": "03 0e 07 00 00 f8 e2 3f 02 f8 e2",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1806,
+        "time": 58104,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.9375,
+          "rpm": 256
+        },
+        "total": 299,
+        "rpm": 256,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 575,
+        "time": 58104,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 95,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:28.701Z",
+      "hex": "03 11 07 00 00 b8 e6 40 02 b8 e6",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1809,
+        "time": 59064,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 302,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 576,
+        "time": 59064,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 96,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:29.721Z",
+      "hex": "03 14 07 00 00 78 ea 41 02 78 ea",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1812,
+        "time": 60024,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 305,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 577,
+        "time": 60024,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 97,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:29.721Z",
+      "hex": "03 17 07 00 00 38 ee 42 02 38 ee",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1815,
+        "time": 60984,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 308,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 578,
+        "time": 60984,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 98,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:30.741Z",
+      "hex": "03 1a 07 00 00 0c f2 43 02 0c f2",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1818,
+        "time": 61964,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 311,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 579,
+        "time": 61964,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 99,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:30.741Z",
+      "hex": "03 1d 07 00 00 e0 f5 44 02 e0 f5",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1821,
+        "time": 62944,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 314,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 580,
+        "time": 62944,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 100,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:31.701Z",
+      "hex": "03 20 07 00 00 8c f9 45 02 8c f9",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1824,
+        "time": 63884,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 317,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 581,
+        "time": 63884,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 101,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:31.701Z",
+      "hex": "03 24 07 00 00 38 fd 46 02 38 fd",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1828,
+        "time": 64824,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.91796875,
+          "rpm": 261.4468085106383
+        },
+        "total": 321,
+        "rpm": 261.4468085106383,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 582,
+        "time": 64824,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 102,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:32.721Z",
+      "hex": "03 27 07 00 00 e4 00 47 02 e4 00",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1831,
+        "time": 228,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 324,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 583,
+        "time": 228,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 103,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:32.721Z",
+      "hex": "03 2a 07 00 00 90 04 48 02 90 04",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1834,
+        "time": 1168,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 327,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 584,
+        "time": 1168,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 104,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:33.711Z",
+      "hex": "03 2d 07 00 00 64 08 49 02 64 08",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1837,
+        "time": 2148,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 330,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 585,
+        "time": 2148,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 105,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:33.711Z",
+      "hex": "03 30 07 00 00 38 0c 4a 02 38 0c",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1840,
+        "time": 3128,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 333,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 586,
+        "time": 3128,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 106,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:34.700Z",
+      "hex": "03 33 07 00 00 f8 0f 4b 02 f8 0f",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1843,
+        "time": 4088,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 336,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 587,
+        "time": 4088,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 107,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:34.701Z",
+      "hex": "03 36 07 00 00 b8 13 4c 02 b8 13",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1846,
+        "time": 5048,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 339,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 588,
+        "time": 5048,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 108,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:35.690Z",
+      "hex": "03 3d 07 00 00 38 1b 4e 02 38 1b",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1853,
+        "time": 6968,
+        "delta": {
+          "revolutions": 7,
+          "seconds": 1.875,
+          "rpm": 224
+        },
+        "total": 346,
+        "rpm": 224,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 590,
+        "time": 6968,
+        "delta": {
+          "revolutions": 2,
+          "seconds": 1.875,
+          "rpm": 64
+        },
+        "total": 110,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:35.751Z",
+      "hex": "03 43 07 00 00 b8 22 50 02 b8 22",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1859,
+        "time": 8888,
+        "delta": {
+          "revolutions": 6,
+          "seconds": 1.875,
+          "rpm": 192
+        },
+        "total": 352,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 592,
+        "time": 8888,
+        "delta": {
+          "revolutions": 2,
+          "seconds": 1.875,
+          "rpm": 64
+        },
+        "total": 112,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:36.710Z",
+      "hex": "03 46 07 00 00 8c 26 51 02 8c 26",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1862,
+        "time": 9868,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 355,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 593,
+        "time": 9868,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 113,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:36.711Z",
+      "hex": "03 49 07 00 00 60 2a 52 02 60 2a",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1865,
+        "time": 10848,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 358,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 594,
+        "time": 10848,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 114,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:37.700Z",
+      "hex": "03 4c 07 00 00 0c 2e 53 02 0c 2e",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1868,
+        "time": 11788,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 361,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 595,
+        "time": 11788,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 115,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:37.701Z",
+      "hex": "03 50 07 00 00 b8 31 54 02 b8 31",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1872,
+        "time": 12728,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.91796875,
+          "rpm": 261.4468085106383
+        },
+        "total": 365,
+        "rpm": 261.4468085106383,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 596,
+        "time": 12728,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 116,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:38.752Z",
+      "hex": "03 53 07 00 00 8c 35 55 02 8c 35",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1875,
+        "time": 13708,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 368,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 597,
+        "time": 13708,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 117,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:38.752Z",
+      "hex": "03 56 07 00 00 60 39 56 02 60 39",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1878,
+        "time": 14688,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 371,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 598,
+        "time": 14688,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 118,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:39.711Z",
+      "hex": "03 59 07 00 00 d0 3c 57 02 d0 3c",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1881,
+        "time": 15568,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.859375,
+          "rpm": 209.45454545454547
+        },
+        "total": 374,
+        "rpm": 209.45454545454547,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 599,
+        "time": 15568,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.859375,
+          "rpm": 69.81818181818181
+        },
+        "total": 119,
+        "rpm": 69.81818181818181,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:39.714Z",
+      "hex": "03 5c 07 00 00 40 40 58 02 40 40",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1884,
+        "time": 16448,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.859375,
+          "rpm": 209.45454545454547
+        },
+        "total": 377,
+        "rpm": 209.45454545454547,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 600,
+        "time": 16448,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.859375,
+          "rpm": 69.81818181818181
+        },
+        "total": 120,
+        "rpm": 69.81818181818181,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:40.701Z",
+      "hex": "03 5f 07 00 00 3c 44 59 02 3c 44",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1887,
+        "time": 17468,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.99609375,
+          "rpm": 180.7058823529412
+        },
+        "total": 380,
+        "rpm": 180.7058823529412,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 601,
+        "time": 17468,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.99609375,
+          "rpm": 60.23529411764706
+        },
+        "total": 121,
+        "rpm": 60.23529411764706,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:40.702Z",
+      "hex": "03 62 07 00 00 38 48 5a 02 38 48",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1890,
+        "time": 18488,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.99609375,
+          "rpm": 180.7058823529412
+        },
+        "total": 383,
+        "rpm": 180.7058823529412,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 602,
+        "time": 18488,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.99609375,
+          "rpm": 60.23529411764706
+        },
+        "total": 122,
+        "rpm": 60.23529411764706,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:41.750Z",
+      "hex": "03 66 07 00 00 f8 4b 5b 02 f8 4b",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1894,
+        "time": 19448,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.9375,
+          "rpm": 256
+        },
+        "total": 387,
+        "rpm": 256,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 603,
+        "time": 19448,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 123,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:41.751Z",
+      "hex": "03 69 07 00 00 b8 4f 5c 02 b8 4f",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1897,
+        "time": 20408,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 390,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 604,
+        "time": 20408,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 124,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:42.711Z",
+      "hex": "03 6c 07 00 00 78 53 5d 02 78 53",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1900,
+        "time": 21368,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 393,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 605,
+        "time": 21368,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 125,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:42.711Z",
+      "hex": "03 6f 07 00 00 38 57 5e 02 38 57",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1903,
+        "time": 22328,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 396,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 606,
+        "time": 22328,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 126,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:43.700Z",
+      "hex": "03 72 07 00 00 d0 5a 5f 02 d0 5a",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1906,
+        "time": 23248,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 399,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 607,
+        "time": 23248,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 127,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:43.701Z",
+      "hex": "03 75 07 00 00 68 5e 60 02 68 5e",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1909,
+        "time": 24168,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 402,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 608,
+        "time": 24168,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 128,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:44.690Z",
+      "hex": "03 78 07 00 00 28 62 61 02 28 62",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1912,
+        "time": 25128,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 405,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 609,
+        "time": 25128,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 129,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:44.720Z",
+      "hex": "03 7b 07 00 00 e8 65 62 02 e8 65",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1915,
+        "time": 26088,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 408,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 610,
+        "time": 26088,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 130,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:45.710Z",
+      "hex": "03 7f 07 00 00 94 69 63 02 94 69",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1919,
+        "time": 27028,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.91796875,
+          "rpm": 261.4468085106383
+        },
+        "total": 412,
+        "rpm": 261.4468085106383,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 611,
+        "time": 27028,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 131,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:45.711Z",
+      "hex": "03 82 07 00 00 40 6d 64 02 40 6d",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1922,
+        "time": 27968,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 415,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 612,
+        "time": 27968,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 132,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:46.730Z",
+      "hex": "03 85 07 00 00 00 71 65 02 00 71",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1925,
+        "time": 28928,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 418,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 613,
+        "time": 28928,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 133,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:46.730Z",
+      "hex": "03 88 07 00 00 c0 74 66 02 c0 74",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1928,
+        "time": 29888,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 421,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 614,
+        "time": 29888,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 134,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:47.720Z",
+      "hex": "03 8b 07 00 00 6c 78 67 02 6c 78",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1931,
+        "time": 30828,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 424,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 615,
+        "time": 30828,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 135,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:47.720Z",
+      "hex": "03 8e 07 00 00 18 7c 68 02 18 7c",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1934,
+        "time": 31768,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 427,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 616,
+        "time": 31768,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 136,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:48.710Z",
+      "hex": "03 91 07 00 00 d8 7f 69 02 d8 7f",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1937,
+        "time": 32728,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 430,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 617,
+        "time": 32728,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 137,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:48.711Z",
+      "hex": "03 95 07 00 00 98 83 6a 02 98 83",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1941,
+        "time": 33688,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.9375,
+          "rpm": 256
+        },
+        "total": 434,
+        "rpm": 256,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 618,
+        "time": 33688,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 138,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:49.700Z",
+      "hex": "03 98 07 00 00 44 87 6b 02 44 87",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1944,
+        "time": 34628,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 437,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 619,
+        "time": 34628,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 139,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:49.700Z",
+      "hex": "03 9b 07 00 00 f0 8a 6c 02 f0 8a",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1947,
+        "time": 35568,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 440,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 620,
+        "time": 35568,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 140,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:50.721Z",
+      "hex": "03 9e 07 00 00 9c 8e 6d 02 9c 8e",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1950,
+        "time": 36508,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 443,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 621,
+        "time": 36508,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 141,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:50.721Z",
+      "hex": "03 a1 07 00 00 48 92 6e 02 48 92",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1953,
+        "time": 37448,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 446,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 622,
+        "time": 37448,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 142,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:51.710Z",
+      "hex": "03 a4 07 00 00 1c 96 6f 02 1c 96",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1956,
+        "time": 38428,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 449,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 623,
+        "time": 38428,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 143,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:51.710Z",
+      "hex": "03 a7 07 00 00 f0 99 70 02 f0 99",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1959,
+        "time": 39408,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 452,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 624,
+        "time": 39408,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 144,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:52.700Z",
+      "hex": "03 ab 07 00 00 9c 9d 71 02 9c 9d",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1963,
+        "time": 40348,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.91796875,
+          "rpm": 261.4468085106383
+        },
+        "total": 456,
+        "rpm": 261.4468085106383,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 625,
+        "time": 40348,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 145,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:52.700Z",
+      "hex": "03 ae 07 00 00 48 a1 72 02 48 a1",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1966,
+        "time": 41288,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 459,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 626,
+        "time": 41288,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 146,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:53.690Z",
+      "hex": "03 b1 07 00 00 e0 a4 73 02 e0 a4",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1969,
+        "time": 42208,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 462,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 627,
+        "time": 42208,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 147,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:53.720Z",
+      "hex": "03 b4 07 00 00 78 a8 74 02 78 a8",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1972,
+        "time": 43128,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 465,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 628,
+        "time": 43128,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 148,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:54.740Z",
+      "hex": "03 ba 07 00 00 e4 af 76 02 e4 af",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1978,
+        "time": 45028,
+        "delta": {
+          "revolutions": 6,
+          "seconds": 1.85546875,
+          "rpm": 194.02105263157895
+        },
+        "total": 471,
+        "rpm": 194.02105263157895,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 630,
+        "time": 45028,
+        "delta": {
+          "revolutions": 2,
+          "seconds": 1.85546875,
+          "rpm": 64.67368421052632
+        },
+        "total": 150,
+        "rpm": 64.67368421052632,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:54.769Z",
+      "hex": "03 c1 07 00 00 50 b7 78 02 50 b7",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1985,
+        "time": 46928,
+        "delta": {
+          "revolutions": 7,
+          "seconds": 1.85546875,
+          "rpm": 226.3578947368421
+        },
+        "total": 478,
+        "rpm": 226.3578947368421,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 632,
+        "time": 46928,
+        "delta": {
+          "revolutions": 2,
+          "seconds": 1.85546875,
+          "rpm": 64.67368421052632
+        },
+        "total": 152,
+        "rpm": 64.67368421052632,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:55.700Z",
+      "hex": "03 c4 07 00 00 fc ba 79 02 fc ba",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1988,
+        "time": 47868,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 481,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 633,
+        "time": 47868,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 153,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:55.700Z",
+      "hex": "03 c7 07 00 00 a8 be 7a 02 a8 be",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1991,
+        "time": 48808,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 484,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 634,
+        "time": 48808,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 154,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:56.720Z",
+      "hex": "03 ca 07 00 00 68 c2 7b 02 68 c2",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1994,
+        "time": 49768,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 487,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 635,
+        "time": 49768,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 155,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:56.721Z",
+      "hex": "03 cd 07 00 00 28 c6 7c 02 28 c6",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 1997,
+        "time": 50728,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 490,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 636,
+        "time": 50728,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 156,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:57.710Z",
+      "hex": "03 d0 07 00 00 d4 c9 7d 02 d4 c9",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2000,
+        "time": 51668,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 493,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 637,
+        "time": 51668,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 157,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:57.710Z",
+      "hex": "03 d3 07 00 00 80 cd 7e 02 80 cd",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2003,
+        "time": 52608,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.91796875,
+          "rpm": 196.08510638297872
+        },
+        "total": 496,
+        "rpm": 196.08510638297872,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 638,
+        "time": 52608,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.91796875,
+          "rpm": 65.36170212765957
+        },
+        "total": 158,
+        "rpm": 65.36170212765957,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:58.730Z",
+      "hex": "03 d7 07 00 00 40 d1 7f 02 40 d1",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2007,
+        "time": 53568,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.9375,
+          "rpm": 256
+        },
+        "total": 500,
+        "rpm": 256,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 639,
+        "time": 53568,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 159,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:58.731Z",
+      "hex": "03 da 07 00 00 00 d5 80 02 00 d5",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2010,
+        "time": 54528,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 503,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 640,
+        "time": 54528,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 160,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:59.719Z",
+      "hex": "03 dd 07 00 00 98 d8 81 02 98 d8",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2013,
+        "time": 55448,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 506,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 641,
+        "time": 55448,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 161,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:49:59.721Z",
+      "hex": "03 e0 07 00 00 30 dc 82 02 30 dc",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2016,
+        "time": 56368,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.8984375,
+          "rpm": 200.34782608695653
+        },
+        "total": 509,
+        "rpm": 200.34782608695653,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 642,
+        "time": 56368,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.8984375,
+          "rpm": 66.78260869565217
+        },
+        "total": 162,
+        "rpm": 66.78260869565217,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:00.710Z",
+      "hex": "03 e3 07 00 00 f0 df 83 02 f0 df",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2019,
+        "time": 57328,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 512,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 643,
+        "time": 57328,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 163,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:00.711Z",
+      "hex": "03 e6 07 00 00 b0 e3 84 02 b0 e3",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2022,
+        "time": 58288,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 515,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 644,
+        "time": 58288,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 164,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:01.701Z",
+      "hex": "03 e9 07 00 00 84 e7 85 02 84 e7",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2025,
+        "time": 59268,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 518,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 645,
+        "time": 59268,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 165,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:01.701Z",
+      "hex": "03 ed 07 00 00 58 eb 86 02 58 eb",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2029,
+        "time": 60248,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.95703125,
+          "rpm": 250.77551020408163
+        },
+        "total": 522,
+        "rpm": 250.77551020408163,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 646,
+        "time": 60248,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 166,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:02.721Z",
+      "hex": "03 f0 07 00 00 18 ef 87 02 18 ef",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2032,
+        "time": 61208,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 525,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 647,
+        "time": 61208,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 167,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:02.721Z",
+      "hex": "03 f3 07 00 00 d8 f2 88 02 d8 f2",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2035,
+        "time": 62168,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 528,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 648,
+        "time": 62168,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 168,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:03.710Z",
+      "hex": "03 f6 07 00 00 ac f6 89 02 ac f6",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2038,
+        "time": 63148,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 531,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 649,
+        "time": 63148,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 169,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:03.711Z",
+      "hex": "03 f9 07 00 00 80 fa 8a 02 80 fa",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2041,
+        "time": 64128,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 534,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 650,
+        "time": 64128,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 170,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:04.699Z",
+      "hex": "03 fc 07 00 00 68 fe 8b 02 68 fe",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2044,
+        "time": 65128,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 537,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 651,
+        "time": 65128,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 171,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:04.701Z",
+      "hex": "03 ff 07 00 00 50 02 8c 02 50 02",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2047,
+        "time": 592,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 540,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 652,
+        "time": 592,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 172,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:05.720Z",
+      "hex": "03 03 08 00 00 24 06 8d 02 24 06",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2051,
+        "time": 1572,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.95703125,
+          "rpm": 250.77551020408163
+        },
+        "total": 544,
+        "rpm": 250.77551020408163,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 653,
+        "time": 1572,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 173,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:05.720Z",
+      "hex": "03 06 08 00 00 f8 09 8e 02 f8 09",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2054,
+        "time": 2552,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 547,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 654,
+        "time": 2552,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 174,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:06.709Z",
+      "hex": "03 09 08 00 00 b8 0d 8f 02 b8 0d",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2057,
+        "time": 3512,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 550,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 655,
+        "time": 3512,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 175,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:06.710Z",
+      "hex": "03 0c 08 00 00 78 11 90 02 78 11",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2060,
+        "time": 4472,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 553,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 656,
+        "time": 4472,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 176,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:07.700Z",
+      "hex": "03 0f 08 00 00 60 15 91 02 60 15",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2063,
+        "time": 5472,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 556,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 657,
+        "time": 5472,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 177,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:07.700Z",
+      "hex": "03 12 08 00 00 48 19 92 02 48 19",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2066,
+        "time": 6472,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 559,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 658,
+        "time": 6472,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 178,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:08.720Z",
+      "hex": "03 15 08 00 00 08 1d 93 02 08 1d",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2069,
+        "time": 7432,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 562,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 659,
+        "time": 7432,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 179,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:08.720Z",
+      "hex": "03 19 08 00 00 c8 20 94 02 c8 20",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2073,
+        "time": 8392,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.9375,
+          "rpm": 256
+        },
+        "total": 566,
+        "rpm": 256,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 660,
+        "time": 8392,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 180,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:09.740Z",
+      "hex": "03 1c 08 00 00 9c 24 95 02 9c 24",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2076,
+        "time": 9372,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 569,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 661,
+        "time": 9372,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 181,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:09.740Z",
+      "hex": "03 1f 08 00 00 70 28 96 02 70 28",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2079,
+        "time": 10352,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 572,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 662,
+        "time": 10352,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 182,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:10.790Z",
+      "hex": "03 22 08 00 00 30 2c 97 02 30 2c",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2082,
+        "time": 11312,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 575,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 663,
+        "time": 11312,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 183,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:10.790Z",
+      "hex": "03 25 08 00 00 f0 2f 98 02 f0 2f",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2085,
+        "time": 12272,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 578,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 664,
+        "time": 12272,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 184,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:11.720Z",
+      "hex": "03 28 08 00 00 00 34 99 02 00 34",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2088,
+        "time": 13312,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 1.015625,
+          "rpm": 177.23076923076923
+        },
+        "total": 581,
+        "rpm": 177.23076923076923,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 665,
+        "time": 13312,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 1.015625,
+          "rpm": 59.07692307692308
+        },
+        "total": 185,
+        "rpm": 59.07692307692308,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:11.720Z",
+      "hex": "03 2b 08 00 00 10 38 9a 02 10 38",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2091,
+        "time": 14352,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 1.015625,
+          "rpm": 177.23076923076923
+        },
+        "total": 584,
+        "rpm": 177.23076923076923,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 666,
+        "time": 14352,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 1.015625,
+          "rpm": 59.07692307692308
+        },
+        "total": 186,
+        "rpm": 59.07692307692308,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:12.740Z",
+      "hex": "03 2f 08 00 00 d0 3b 9b 02 d0 3b",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2095,
+        "time": 15312,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.9375,
+          "rpm": 256
+        },
+        "total": 588,
+        "rpm": 256,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 667,
+        "time": 15312,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 187,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:12.740Z",
+      "hex": "03 32 08 00 00 90 3f 9c 02 90 3f",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2098,
+        "time": 16272,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 591,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 668,
+        "time": 16272,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 188,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:13.699Z",
+      "hex": "03 35 08 00 00 78 43 9d 02 78 43",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2101,
+        "time": 17272,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 594,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 669,
+        "time": 17272,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 189,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:13.701Z",
+      "hex": "03 38 08 00 00 60 47 9e 02 60 47",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2104,
+        "time": 18272,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 597,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 670,
+        "time": 18272,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 190,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:14.750Z",
+      "hex": "03 3b 08 00 00 48 4b 9f 02 48 4b",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2107,
+        "time": 19272,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 600,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 671,
+        "time": 19272,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 191,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:14.751Z",
+      "hex": "03 3e 08 00 00 30 4f a0 02 30 4f",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2110,
+        "time": 20272,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 603,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 672,
+        "time": 20272,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 192,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:15.710Z",
+      "hex": "03 41 08 00 00 04 53 a1 02 04 53",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2113,
+        "time": 21252,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.95703125,
+          "rpm": 188.08163265306123
+        },
+        "total": 606,
+        "rpm": 188.08163265306123,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 673,
+        "time": 21252,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 193,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:15.710Z",
+      "hex": "03 45 08 00 00 d8 56 a2 02 d8 56",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2117,
+        "time": 22232,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.95703125,
+          "rpm": 250.77551020408163
+        },
+        "total": 610,
+        "rpm": 250.77551020408163,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 674,
+        "time": 22232,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.95703125,
+          "rpm": 62.69387755102041
+        },
+        "total": 194,
+        "rpm": 62.69387755102041,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:16.700Z",
+      "hex": "03 48 08 00 00 c0 5a a3 02 c0 5a",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2120,
+        "time": 23232,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 613,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 675,
+        "time": 23232,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 195,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:16.700Z",
+      "hex": "03 4b 08 00 00 a8 5e a4 02 a8 5e",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2123,
+        "time": 24232,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 616,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 676,
+        "time": 24232,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 196,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:17.720Z",
+      "hex": "03 4e 08 00 00 68 62 a5 02 68 62",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2126,
+        "time": 25192,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 619,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 677,
+        "time": 25192,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 197,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:17.720Z",
+      "hex": "03 51 08 00 00 28 66 a6 02 28 66",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2129,
+        "time": 26152,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 622,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 678,
+        "time": 26152,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 198,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:18.710Z",
+      "hex": "03 54 08 00 00 e8 69 a7 02 e8 69",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2132,
+        "time": 27112,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 625,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 679,
+        "time": 27112,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 199,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:18.710Z",
+      "hex": "03 57 08 00 00 a8 6d a8 02 a8 6d",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2135,
+        "time": 28072,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9375,
+          "rpm": 192
+        },
+        "total": 628,
+        "rpm": 192,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 680,
+        "time": 28072,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9375,
+          "rpm": 64
+        },
+        "total": 200,
+        "rpm": 64,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:19.700Z",
+      "hex": "03 5a 08 00 00 90 71 a9 02 90 71",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2138,
+        "time": 29072,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 631,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 681,
+        "time": 29072,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 201,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:19.700Z",
+      "hex": "03 5e 08 00 00 78 75 aa 02 78 75",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2142,
+        "time": 30072,
+        "delta": {
+          "revolutions": 4,
+          "seconds": 0.9765625,
+          "rpm": 245.76
+        },
+        "total": 635,
+        "rpm": 245.76,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 682,
+        "time": 30072,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 202,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:20.690Z",
+      "hex": "03 61 08 00 00 60 79 ab 02 60 79",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2145,
+        "time": 31072,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 638,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 683,
+        "time": 31072,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 203,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:20.750Z",
+      "hex": "03 64 08 00 00 48 7d ac 02 48 7d",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2148,
+        "time": 32072,
+        "delta": {
+          "revolutions": 3,
+          "seconds": 0.9765625,
+          "rpm": 184.32
+        },
+        "total": 641,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 684,
+        "time": 32072,
+        "delta": {
+          "revolutions": 1,
+          "seconds": 0.9765625,
+          "rpm": 61.44
+        },
+        "total": 204,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:21.739Z",
+      "hex": "03 64 08 00 00 48 7d ac 02 48 7d",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2148,
+        "time": 32072,
+        "delta": {
+          "revolutions": 0,
+          "seconds": 0,
+          "rpm": null
+        },
+        "total": 641,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 684,
+        "time": 32072,
+        "delta": {
+          "revolutions": 0,
+          "seconds": 0,
+          "rpm": null
+        },
+        "total": 204,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:22.700Z",
+      "hex": "03 64 08 00 00 48 7d ac 02 48 7d",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2148,
+        "time": 32072,
+        "delta": {
+          "revolutions": 0,
+          "seconds": 0,
+          "rpm": null
+        },
+        "total": 641,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 684,
+        "time": 32072,
+        "delta": {
+          "revolutions": 0,
+          "seconds": 0,
+          "rpm": null
+        },
+        "total": 204,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:23.750Z",
+      "hex": "03 64 08 00 00 48 7d ac 02 48 7d",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2148,
+        "time": 32072,
+        "delta": {
+          "revolutions": 0,
+          "seconds": 0,
+          "rpm": null
+        },
+        "total": 641,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 684,
+        "time": 32072,
+        "delta": {
+          "revolutions": 0,
+          "seconds": 0,
+          "rpm": null
+        },
+        "total": 204,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    },
+    {
+      "timestamp": "2026-10-22T15:50:24.710Z",
+      "hex": "03 64 08 00 00 48 7d ac 02 48 7d",
+      "flags": 3,
+      "wheel": {
+        "revolutions": 2148,
+        "time": 32072,
+        "delta": {
+          "revolutions": 0,
+          "seconds": 0,
+          "rpm": null
+        },
+        "total": 641,
+        "rpm": 184.32,
+        "discontinuity": false
+      },
+      "crank": {
+        "revolutions": 684,
+        "time": 32072,
+        "delta": {
+          "revolutions": 0,
+          "seconds": 0,
+          "rpm": null
+        },
+        "total": 204,
+        "rpm": 61.44,
+        "discontinuity": false
+      }
+    }
+  ]
+}

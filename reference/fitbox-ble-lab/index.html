@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ja">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>FITBOX BLE Lab</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<main>
+  <header><span class="eyebrow">SENSOR EXPLORER</span><h1>FITBOX <span>BLE Lab</span></h1><p>ペダルを回して、センサーの入力を確かめる。</p></header>
+  <section class="connection"><div><span id="status" role="status">未接続</span><p id="device">接続対象：FITBOX-03807</p></div><div class="actions"><button id="connect">センサーに接続</button><button id="disconnect" disabled class="secondary">切断</button></div></section>
+  <p id="message" role="status">MacのChromeで開き、ペダルを動かしてから接続してください。</p>
+  <details><summary>見つからない場合・接続設定</summary><label><input type="checkbox" id="allDevices"> デバイス名で絞らず選択する</label><p>ほかのサイクリングアプリとnRF Connectを切断してください。MacのBluetoothをオンにし、必要ならシステム設定でChromeのBluetoothアクセスを許可してください。</p></details>
+  <div class="section-title"><h2>回転の観測</h2><button id="reset" class="secondary">計測をリセット</button></div>
+  <p class="hint">ペダルを10回まわして「計測中の回転数」の増加を比較してください。Wheel / Crankと実際の動きの対応は未確認です。</p>
+  <div class="cards">
+    <section class="card" id="wheel"><h2>Wheel <small>車輪データ</small></h2><div class="reading"><strong data-field="rpm">—</strong><span>rpm</span></div><p data-field="activity">データ待ち</p><dl><div><dt>累積回転数（センサー値）</dt><dd data-field="revolutions">—</dd></div><div><dt>計測中の回転数</dt><dd data-field="total">0</dd></div><div><dt>前回からの増分</dt><dd data-field="delta">—</dd></div><div><dt>最終回転時刻（センサー）</dt><dd data-field="time">—</dd></div></dl></section>
+    <section class="card" id="crank"><h2>Crank <small>クランクデータ</small></h2><div class="reading"><strong data-field="rpm">—</strong><span>rpm</span></div><p data-field="activity">データ待ち</p><dl><div><dt>累積回転数（センサー値）</dt><dd data-field="revolutions">—</dd></div><div><dt>計測中の回転数</dt><dd data-field="total">0</dd></div><div><dt>前回からの増分</dt><dd data-field="delta">—</dd></div><div><dt>最終回転時刻（センサー）</dt><dd data-field="time">—</dd></div></dl></section>
+  </div>
+  <section class="panel"><h2>接続・受信情報</h2><dl class="metadata"><div><dt>通知数</dt><dd id="count">0</dd></div><div><dt>最終受信</dt><dd id="lastReceived">—</dd></div><div><dt>電池残量</dt><dd id="battery">—</dd></div><div><dt>サービス</dt><dd>0x1816 / CSC</dd></div></dl><p class="hint">rpmは回転数とセンサー時刻の差から計算します。5秒間回転の更新がなければ「更新なし」と表示します。停止と通信欠落は区別できません。速度・距離・ワット数への換算は行いません。</p><details><summary>検出したサービスと特性</summary><pre id="services">接続後に表示します。</pre></details></section>
+  <section class="panel"><div class="section-title"><h2>受信ログ</h2><button id="export" disabled class="secondary">JSONを保存</button></div><p class="hint">画面は最新100件、保存は最大10,000件。ログはこのタブ内に保持され、再読み込みで消えます。</p><div class="table-wrap"><table><thead><tr><th>受信時刻</th><th>Wheel 累積 / rpm</th><th>Crank 累積 / rpm</th><th>生データ（HEX）</th></tr></thead><tbody id="logs"></tbody></table></div></section>
+  <footer>CSC Measurement · 0x2A5B · データはこのブラウザ内で処理されます。</footer>
+</main><script type="module" src="app.js"></script>
+</body></html>
