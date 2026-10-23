@@ -4,9 +4,13 @@
 
 [Bluefy公式ガイド](https://bluefy.app/guide.html)を参照してください。現時点でこのアプリとFITBOXの組み合わせによるiPad実機確認は未実施です。
 
-## 方法1: 静的HTTPS配信
+## 方法1: GitHub Pages（通常はこちら）
 
-`npm run build` の `dist/` 全体をHTTPSの静的ホスティングへ配置し、そのURLをBluefyで開きます。相対パスでビルドするためサブディレクトリにも配置できます。今回、公開やホスティングサービスの設定は行っていません。
+[GitHub Pagesの初回設定](github-pages.md)を済ませ、`release`へpushするとHTTPSで公開されます。Bluefyで次のURLを開いてください。
+
+https://geny7i.github.io/fitbox-monitor/
+
+Macの常時起動やローカル証明書のインストールは不要です。公開先は初回デプロイが成功してから利用できます。
 
 ## 方法2: MacからLAN内のHTTPS配信
 

@@ -7,7 +7,7 @@ FITBOX GATEケイデンスセンサーで、運動中の回転数・時間を確
 | 環境 | 実機のBLE計測 | 画面・ログ再生 |
 | --- | --- | --- |
 | iPad + Bluefy | HTTPSで利用。実機検証待ち | 利用可能 |
-| Mac + Chrome | localhostまたはHTTPS。旧検証アプリで接続実績あり／新アプリは実機検証待ち | 利用可能 |
+| Mac + Chrome | localhostまたはHTTPS。ユーザーによる動作確認済み | 利用可能 |
 | iPad + Safari | 標準Web Bluetooth非対応 | 利用可能 |
 
 iPadでは[Bluefy](https://bluefy.app/guide.html)をインストールしてアプリのHTTPS URLを開きます。SafariのみでのBLE接続は初期版の対象に含めていません。Macによる中継は不要です。
@@ -30,7 +30,15 @@ npx playwright install chromium webkit
 npm run test:e2e
 ```
 
-`npm run build` で生成する `dist/` は静的HTTPSホスティングへ配置できます。外部公開・ホスティング設定はまだ行っていません。ローカルHTTPSの設定は [iPadでの利用手順](docs/ipad-setup.md) を参照してください。
+## 公開・iPadでの確認
+
+`release`ブランチへpushするとGitHub Actionsがテスト・ビルドし、GitHub Pagesへデプロイします。タグやGitHub Releaseの作成は不要です。
+
+公開先（初回デプロイ成功後）: https://geny7i.github.io/fitbox-monitor/
+
+初回はGitHubの **Settings → Pages → Source** を **GitHub Actions** に設定してください。初回公開と以降の更新手順は [GitHub Pages設定](docs/github-pages.md) を参照してください。iPadではBluefyで公開URLを開きます。
+
+ローカルHTTPSの設定は [iPadでの利用手順](docs/ipad-setup.md) を参照してください。
 
 ## 使い方
 
