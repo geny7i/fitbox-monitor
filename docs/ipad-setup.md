@@ -1,8 +1,14 @@
-# iPadで使う
+# iPad・Androidで使う
 
 最小構成は「iPadのBluefyでHTTPSのアプリを開き、センサーへ直接接続する」です。Macは必須ではありません。Safari標準ではWeb Bluetoothが提供されません。
 
 [Bluefy公式ガイド](https://bluefy.app/guide.html)を参照してください。現時点でこのアプリとFITBOXの組み合わせによるiPad実機確認は未実施です。
+
+## AndroidのChrome
+
+Androidスマートフォンも対応環境に含める。ユーザーによるこのセンサーとの連携確認済み。Chromeで https://geny7i.github.io/fitbox-monitor/ を開き、Bluetooth権限を許可してセンサーを接続する。ローカル証明書や専用ブラウザは不要。
+
+スマートフォンでの誤タップ対策として「終了して保存」は確認ダイアログを表示する。キャンセルで計測中／一時停止中の状態を維持し、OKで終了・保存する。
 
 ## 方法1: GitHub Pages（通常はこちら）
 

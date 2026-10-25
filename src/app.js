@@ -84,7 +84,9 @@ $('disconnect').onclick = () => ble.disconnect();
 $('start').onclick = () => { session.start(performance.now()); checkpoint(); holdScreen(); message(source === 'replay' ? '記録を再生しています。' : '計測中です。'); render(); };
 $('pause').onclick = () => { pause(); message('一時停止中です。合計は保持しています。'); };
 function finish() { session.finish(performance.now()); replay = null; checkpoint(); releaseScreen(); message(saveError ? '終了しました。保存できないためJSON出力してください。' : '終了して記録を保存しました。'); render(); }
-$('finish').onclick = finish;
+$('finish').onclick = () => {
+  if (window.confirm('計測を終了して記録を保存しますか？\n終了後はこの計測を再開できません。')) finish();
+};
 $('new').onclick = () => { replay = null; source = 'ble'; newSession(); message('新しい計測の準備ができました。'); };
 function endCalibration() { calibrating = false; preview = null; releaseScreen(); $('calibrationBody').hidden = true; render(); }
 $('calibrate').onclick = () => {
@@ -193,6 +195,6 @@ function frame(now) {
   $('crank').setAttribute('transform', `rotate(${angle} 120 120)`);
   requestAnimationFrame(frame);
 }
-$('support').textContent = !window.isSecureContext ? '実機接続にはHTTPSが必要です。LANのHTTPでは画面・再生のみ確認できます。' : !navigator.bluetooth ? 'このブラウザはBLE未対応です。iPadはBluefy、MacはChromeをご利用ください。記録の再生は利用できます。' : 'iPadはBluefy、MacはChromeに対応。ほかのセンサー接続アプリは切断してください。';
+$('support').textContent = !window.isSecureContext ? '実機接続にはHTTPSが必要です。LANのHTTPでは画面・再生のみ確認できます。' : !navigator.bluetooth ? 'このブラウザはBLE未対応です。iPadはBluefy、Android・MacはChromeをご利用ください。記録の再生は利用できます。' : 'iPadはBluefy、Android・MacはChromeに対応。ほかのセンサー接続アプリは切断してください。';
 if (store.loadFailed) $('storageNotice').textContent = '保存データを読み込めませんでした。ブラウザの保存設定を確認してください。';
 renderHistory(); newSession(); requestAnimationFrame(frame);

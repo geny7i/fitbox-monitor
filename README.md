@@ -1,16 +1,17 @@
 # FITBOX Monitor
 
-FITBOX GATEケイデンスセンサーで、運動中の回転数・時間を確認して記録するシンプルなアプリ。iPadでの利用を中心に、Macでもデバッグ・計測できる構成です。
+FITBOX GATEケイデンスセンサーで、運動中の回転数・時間を確認して記録するシンプルなアプリ。iPad・Androidスマートフォンで利用でき、Macでもデバッグ・計測できる構成です。
 
 ## 対応環境
 
 | 環境 | 実機のBLE計測 | 画面・ログ再生 |
 | --- | --- | --- |
+| Android + Chrome | HTTPSで利用。ユーザーによるセンサー連携の動作確認済み | 利用可能 |
 | iPad + Bluefy | HTTPSで利用。実機検証待ち | 利用可能 |
 | Mac + Chrome | localhostまたはHTTPS。ユーザーによる動作確認済み | 利用可能 |
 | iPad + Safari | 標準Web Bluetooth非対応 | 利用可能 |
 
-iPadでは[Bluefy](https://bluefy.app/guide.html)をインストールしてアプリのHTTPS URLを開きます。SafariのみでのBLE接続は初期版の対象に含めていません。Macによる中継は不要です。
+iPadでは[Bluefy](https://bluefy.app/guide.html)をインストールしてアプリのHTTPS URLを開きます。SafariのみでのBLE接続は初期版の対象に含めていません。AndroidではChromeで公開URLを開きます。Macによる中継は不要です。
 
 ## 開発・起動
 
@@ -30,15 +31,15 @@ npx playwright install chromium webkit
 npm run test:e2e
 ```
 
-## 公開・iPadでの確認
+## 公開・モバイル端末での確認
 
 `release`ブランチへpushするとGitHub Actionsがテスト・ビルドし、GitHub Pagesへデプロイします。タグやGitHub Releaseの作成は不要です。
 
 公開先（初回デプロイ成功後）: https://geny7i.github.io/fitbox-monitor/
 
-初回はGitHubの **Settings → Pages → Source** を **GitHub Actions** に設定してください。初回公開と以降の更新手順は [GitHub Pages設定](docs/github-pages.md) を参照してください。iPadではBluefyで公開URLを開きます。
+初回はGitHubの **Settings → Pages → Source** を **GitHub Actions** に設定してください。初回公開と以降の更新手順は [GitHub Pages設定](docs/github-pages.md) を参照してください。iPadではBluefy、AndroidではChromeで公開URLを開きます。
 
-ローカルHTTPSの設定は [iPadでの利用手順](docs/ipad-setup.md) を参照してください。
+ローカルHTTPSの設定は [iPad・Androidでの利用手順](docs/ipad-setup.md) を参照してください。
 
 ## 使い方
 
@@ -46,7 +47,7 @@ npm run test:e2e
 2. 「センサーを接続」からFITBOXを選ぶ。名前が異なる場合は「すべてのBLE機器から選ぶ」を使う。
 3. 「開始」で計測。現在rpm・運動時間・総ペダル回転数・平均rpmを確認する。
 4. 休憩は「一時停止」、継続は「再開」。回転を止めるだけでは時間は止まらない。
-5. 「終了して保存」で履歴に残す。停止・切断・終了後も結果は消えない。「新しい計測」で次を開始する。
+5. 「終了して保存」で確認ダイアログを開き、OKを選ぶと終了して履歴に残す。キャンセルなら現在の計測・一時停止の状態を維持する。停止・切断・終了後も結果は消えない。「新しい計測」で次を開始する。
 
 接続中に「回転の補正」を開くと、実物と画面のペダルの速さを比べられます。色付きペダルの一周が1回転です。「遅くする／速くする」または倍率入力で調整し「この補正を使う」で保存。運動中は補正できず、保存設定は次のセッションから適用します。実物との絶対角度や回転方向は測定していません。
 

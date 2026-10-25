@@ -27,6 +27,7 @@ test('iPad layout, BLE session, pause, disconnect and persistent history', async
   await page.locator('#start').click(); await page.evaluate(() => window.notifyCrank(130)); await page.clock.runFor(1000); await page.evaluate(() => window.notifyCrank(132)); await page.clock.runFor(100);
   await expect(page.locator('#total')).toHaveText('2.0');
   await page.locator('#disconnect').click(); await expect(page.locator('#sessionStatus')).toHaveText('一時停止');
+  page.once('dialog', dialog => dialog.accept());
   await page.locator('#finish').click(); await expect(page.locator('#total')).toHaveText('2.0');
   await page.reload(); await expect(page.locator('#history')).toContainText('2.0回');
   expect(errors).toEqual([]);
@@ -78,4 +79,34 @@ test('60rpm advances the visual pedal half a turn in half a second', async ({ pa
   const start = await read(); await page.clock.runFor(500); const end = await read();
   const degrees = (end - start + 360) % 360;
   expect(degrees).toBeGreaterThan(170); expect(degrees).toBeLessThan(190);
+});
+
+for (const paused of [false, true]) test(`finish confirmation preserves ${paused ? 'paused' : 'running'} session on cancel and saves on accept`, async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await mockSensor(page); await page.clock.install(); await page.goto('/');
+  await page.locator('#connect').click(); await page.locator('#start').click();
+  await page.evaluate(() => window.notifyCrank(100)); await page.clock.runFor(1000);
+  await page.evaluate(() => window.notifyCrank(102)); await page.clock.runFor(100);
+  if (paused) await page.locator('#pause').click();
+  const status = paused ? '一時停止' : '計測中';
+  page.once('dialog', async dialog => {
+    expect(dialog.type()).toBe('confirm');
+    expect(dialog.message()).toContain('終了後はこの計測を再開できません');
+    await dialog.dismiss();
+  });
+  await page.locator('#finish').click();
+  await expect(page.locator('#sessionStatus')).toHaveText(status);
+  await expect(page.locator('#total')).toHaveText('1.0');
+  // Cancellation must leave the session resumable and able to count more input.
+  if (paused) {
+    await page.locator('#start').click();
+    await page.evaluate(() => window.notifyCrank(102));
+  }
+  await page.clock.runFor(1000); await page.evaluate(() => window.notifyCrank(104)); await page.clock.runFor(100);
+  await expect(page.locator('#total')).toHaveText('2.0');
+  page.once('dialog', dialog => dialog.accept());
+  await page.locator('#finish').click();
+  await expect(page.locator('#sessionStatus')).toHaveText('終了');
+  await expect(page.locator('#total')).toHaveText('2.0');
+  await page.reload(); await expect(page.locator('#history')).toContainText('2.0回');
 });
